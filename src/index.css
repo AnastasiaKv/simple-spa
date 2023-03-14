@@ -1,0 +1,8 @@
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.page h1 {
+  text-align: center;
+}
