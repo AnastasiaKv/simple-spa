@@ -1,2 +1,3 @@
-# simple-spa
-Simple SPA without frameworks
+# Simple SPA
+
+App without frameworks
